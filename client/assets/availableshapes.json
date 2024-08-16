@@ -1,0 +1,97 @@
+[
+    {
+        "name": "arrowdown",
+        "method": "generateArrow",
+        "args": ["down"]
+    },
+    {
+        "name": "arrowleft",
+        "method": "generateArrow",
+        "args": ["left"]
+    },
+    {
+        "name": "arrowright",
+        "method": "generateArrow",
+        "args": ["right"]
+    },
+    {
+        "name": "arrowup",
+        "method": "generateArrow",
+        "args": ["up"]
+    },
+    {
+        "name": "circle",
+        "method": "generateCircle",
+        "args": []
+    },
+    {
+        "name": "cross",
+        "method": "generateCross",
+        "args": ["normal"]
+    },
+    {
+        "name": "dash",
+        "method": "generateDash",
+        "args": []
+    },
+    {
+        "name": "diagonalcross",
+        "method": "generateCross",
+        "args": ["diagonal"]
+    },
+    {
+        "name": "diamond",
+        "method": "generateDiamond",
+        "args": []
+    },
+    {
+        "name": "eye",
+        "method": "generateEye",
+        "args": []
+    },
+    {
+        "name": "heart",
+        "method": "generateHeart",
+        "args": []
+    },
+    {
+        "name": "pentagon",
+        "method": "generatePentagon",
+        "args": []
+    },
+    {
+        "name": "question",
+        "method": "generateQuestionMark",
+        "args": []
+    },
+    {
+        "name": "reversespiral",
+        "method": "generateSpiral",
+        "args": ["reverse"]
+    },
+    {
+        "name": "spiral",
+        "method": "generateSpiral",
+        "args": ["normal"]
+    },
+    {
+        "name": "square",
+        "method": "generateSquare",
+        "args": []
+    },
+    {
+        "name": "star",
+        "method": "generateStar",
+        "args": []
+    },
+    {
+        "name": "triangle",
+        "method": "generateTriangle",
+        "args": []
+    },
+    {
+        "name": "wave",
+        "method": "generateWave",
+        "args": []
+    }
+]
